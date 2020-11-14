@@ -1,4 +1,4 @@
 #ifndef PRINT_H
-#defing PRINT_H
+#define PRINT_H
 void print();
 #endif
